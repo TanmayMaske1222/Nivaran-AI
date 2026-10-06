@@ -1,0 +1,6 @@
+{
+  "name": "NIVARAN AI — Smart Civic Complaint Management",
+  "description": "An AI-powered Indian Smart City civic complaint management platform connecting citizens with authorities for intelligent issue classification, priority detection, automatic department routing, and real-time resolution tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
